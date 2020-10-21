@@ -5,7 +5,7 @@
 
 ### I'm Vasilis
 
-- 💻 Want to work with computer science
+- 💻 Learning computer science
 - 🌱 Currently working with Minecraft Servers, Web and fucking around with AI
 - 🎮 Epic gamer
 - 🐈 Proud Poke-Fur
