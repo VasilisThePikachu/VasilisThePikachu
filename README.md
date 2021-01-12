@@ -10,5 +10,6 @@
 - 💻 Want to learn computer science
 - 🌱 Currently working with Minecraft Servers, Web and fucking around with AI
 - 🎮 Epic gamer
-- 🐾 Confirmed Cute and Fluffy
 - ⚡ When i'm not coding im probably drawing
+
+######Note: I am NOT cute >_<
