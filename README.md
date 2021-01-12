@@ -12,4 +12,4 @@
 - 🎮 Epic gamer
 - ⚡ When i'm not coding im probably drawing
 
-######Note: I am NOT cute >_<
+###### Note: I am NOT cute >_<
