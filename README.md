@@ -13,3 +13,6 @@
 - ⚡ When i'm not coding im probably drawing
 
 ###### Note: I am NOT cute >_<
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g0y80hvswaih9tsvbiur9ym0v&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=g0y80hvswaih9tsvbiur9ym0v&redirect=true)
