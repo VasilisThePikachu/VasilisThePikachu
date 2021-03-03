@@ -7,10 +7,9 @@
 
 ### I'm Vasilis
 
-- 💻 Want to learn computer science
-- 🌱 Currently working with Minecraft Servers, Web and fucking around with AI
-- 🎮 Epic gamer
-- ⚡ When i'm not coding im probably drawing
+- 💻 Teaching myself computer science (until i can go to colage :/)
+- 🌱 Currently working with Minecraft Servers, Discord/Twitter Bots and AI object detection
+- ⚡ When i'm not coding im probably drawing or playing games
 
 ###### Note: I am NOT cute >_<
 
