@@ -7,8 +7,8 @@
 
 ### I'm Vasilis
 
-- 💻 Teaching myself computer science (until i can go to colage :/)
-- 🌱 Currently working with Minecraft Servers, Discord/Twitter Bots and AI object detection
+- 💻 Teaching myself computer stuff
+- 🌱 Currently working with Minecraft Servers, Discord/Twitter Bots and AI object detection (ok maybe not the last one)
 - ⚡ When i'm not coding im probably drawing or playing games
 
 ###### Note: I am NOT cute >_<
