@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-vasilis@thepikachu.ga-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vasilis@thepikachu.ga)](mailto:vasilis@thepikachu.ga)
 ![Website](https://img.shields.io/website?down_color=red&down_message=dead&label=My%20website&up_color=green&up_message=online&url=https%3A%2F%2Fvasilis.thepikachu.ga)
 ---
-<img align="right" alt="GIF" src="Cute_Pikachu.gif" />
+<img align="right" alt="PNG" src="May_Monthly_Reward_9.png" />
 
 ### I'm Vasilis
 
