@@ -7,11 +7,11 @@
 
 ### I'm Vasilis
 
-- 💻 Teaching myself computer stuff
-- 🌱 Currently working with Minecraft Servers, Discord/Twitter Bots and AI object detection (ok maybe not the last one)
+- 💻 Learning python and java
+- 🌱 Currently working with Minecraft stuff and Discord/Twitter Bots
 - ⚡ When i'm not coding im probably drawing or playing games
 
-###### Note: I am NOT cute >_<
+###### Note: I am NOT cute
 
-
+### Spy on my shit taste of music
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g0y80hvswaih9tsvbiur9ym0v&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=g0y80hvswaih9tsvbiur9ym0v&redirect=true)
