@@ -12,7 +12,7 @@ When I'm not coding, I like playing VR, games in general, or trying to learn to 
 
 Currently teaching myself C# and Python
 
-###### Note: I am NOT cute
+###### Note: I am NOT short
 
 #### Contacts
 [![Discord](https://img.shields.io/badge/Discord-vasilisiscool-%237289DA?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com)
