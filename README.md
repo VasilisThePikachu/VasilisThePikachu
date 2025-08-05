@@ -14,6 +14,8 @@ Currently teaching myself C# and Python
 
 Maintainer for [Space Station 14](https://github.com/space-wizards/space-station-14)
 
+Current profile picture by [zilluzion](https://zilluzion.art/) and colored & shaded by [Shisei](https://vgen.co/Shisei)
+
 ###### Note: I am NOT short
 
 #### Contacts
