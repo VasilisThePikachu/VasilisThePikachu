@@ -2,7 +2,7 @@
 
 ### I'm Vasilis!
 
-Your usual Pikachu (And now Avali as of recently) on the internet!
+Your usual Furry on the internet!
 
 I'm a young self-taught programmer who loves to work on video games and useful tools for communities.
 
