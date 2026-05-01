@@ -18,8 +18,5 @@ Current profile picture by [zilluzion](https://zilluzion.art/) and colored & sha
 
 ###### Note: I am NOT short
 
-#### Contacts
-[![Discord](https://img.shields.io/badge/Discord-vasilisiscool-%237289DA?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com)
-[![Gmail Badge](https://img.shields.io/badge/-vasilis@pikachu.systems-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vasilis@thepikachu.ga)](mailto:vasilis@pikachu.systems)
 [My website](https://pikachu.systems)
 ---
