@@ -1,6 +1,6 @@
 ## Hey there!
 
-### I'm Vasilis!
+### I'm Myra!
 
 Your usual Furry on the internet!
 
