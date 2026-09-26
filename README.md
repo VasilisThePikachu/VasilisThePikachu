@@ -10,9 +10,7 @@ I consider myself genderfluid and use **any** pronouns
 
 When I'm not coding, I like playing VR, games in general, or trying to learn to draw.
 
-Currently teaching myself C# and Python
-
-Maintainer for [Space Station 14](https://github.com/space-wizards/space-station-14)
+Knowledgeable C# and Python
 
 Current profile picture by [zilluzion](https://zilluzion.art/) and colored & shaded by [Shisei](https://vgen.co/Shisei)
 
